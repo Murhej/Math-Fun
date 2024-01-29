@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pI0m+MLs5L4Op/Hz4FRsy7TfSe0/neWJqwrHjTN/hs8r1BBfsWIM3Wwn5CkoA9rHWq3EYyaHJ/qYqbnvIDj0jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murhe\\OneDrive\\Documents\\C# Project\\calcaultor\\Fraction Cal\\Fraction Cal\\Fraction Cal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murhe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\murhe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\murhe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\murhe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\bin\Debug\net6.0-windows\Fraction Cal.exe
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\bin\Debug\net6.0-windows\Fraction Cal.deps.json
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\bin\Debug\net6.0-windows\Fraction Cal.runtimeconfig.json
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\bin\Debug\net6.0-windows\Fraction Cal.dll
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\bin\Debug\net6.0-windows\Fraction Cal.pdb
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.csproj.AssemblyReference.cache
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction_Cal.Form1.resources
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.csproj.GenerateResource.cache
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.AssemblyInfoInputs.cache
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.AssemblyInfo.cs
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.csproj.CoreCompileInputs.cache
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.dll
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\refint\Fraction Cal.dll
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.pdb
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\Fraction Cal.genruntimeconfig.cache
+C:\Users\murhe\OneDrive\Documents\C# Project\calcaultor\Fraction Cal\Fraction Cal\obj\Debug\net6.0-windows\ref\Fraction Cal.dll
